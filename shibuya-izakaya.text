@@ -3,7 +3,6 @@ require 'json'
 require "csv"
 
 #初期設定
-
 KEYID = "9aa2de7c93804f7a"
 COUNT = 100
 PREF = "Z011"
